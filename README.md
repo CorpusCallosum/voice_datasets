@@ -27,7 +27,6 @@ There are two main types of audio datasets: speech datasets and audio event/musi
 * [DEMoS](https://zenodo.org/record/2544829) - 9365 emotional and 332 neutral samples produced by 68 native speakers (23 females, 45 males); 7/6 emotions: anger, sadness, happiness, fear, surprise, disgust, and the secondary emotion guilt.
 * [DES](http://kom.aau.dk/~tb/speech/Emotions/) - 4 speakers (2 males and 2 females); 5 emotions: neutral, surprise, happiness, sadness and anger.
 * [DIPCO](https://arxiv.org/abs/1909.13447) - Dinner Party Corpus - The participants were recorded by a single-channel close-talk microphone and by five far-field 7-microphone array devices positioned at different locations in the recording room. The dataset contains the audio recordings and human labeled transcripts of a total of 10 sessions with a duration between 15 and 45 minutes. 
-* [EEKK](https://metashare.ut.ee/repository/download/4d42d7a8463411e2a6e4005056b40024a19021a316b54b7fb707757d43d1a889/) - 26 text passage read by 10 speakers; 4 main emotions: joy, sadness, anger and neutral.
 * [Emo-DB](http://emodb.bilderbar.info/index-1280.html) - 800 recording spoken by 10 actors (5 males and 5 females); 7 emotions: anger, neutral, fear, boredom, happiness, sadness, disgust.
 * [EmoFilm](https://zenodo.org/record/1326428) - 1115 audio instances sentences extracted from various films.
 * [EmoSynth](https://zenodo.org/record/3727593) - 144 audio file labelled by 40 listeners; Emotion (no speech) defined in regard of valence and arousal.
